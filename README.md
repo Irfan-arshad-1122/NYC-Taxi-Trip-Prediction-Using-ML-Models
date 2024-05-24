@@ -1,4 +1,4 @@
-# NYC Taxi Trip Duration Prediction
+# NYC Taxi Trip Duration Prediction Using ML Models
 This project aims to predict the duration of taxi trips in New York City using machine learning algorithms. The dataset used for this project is the NYC Taxi Trip Duration dataset, sourced from Kaggle, which contains historical data about taxi trips including features such as pickup and drop-off locations, timestamps, and other relevant information.
 
 ## Project Overview
